@@ -4,7 +4,8 @@
   "package": "com.santapexie.santapexie_bettergs.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "BrewingRecipeRegistryAccessor"
+    "BrewingRecipeRegistryAccessor",
+    "StatusEffectsMixin"
   ],
   "client": [
   ],

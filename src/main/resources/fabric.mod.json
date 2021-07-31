@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "com.santapexie.santapexie_bettergs.BetterGlowSquidsMain"
+    ],
+    "client": [
+      "com.santapexie.santapexie_bettergs.client.BetterGlowSquidsClient"
     ]
   },
   "mixins": [
