@@ -1,6 +1,6 @@
 <p align="right">
     <img src="https://i.imgur.com/k2lCbMR.png" width="100" height="100" />
-</p>
+</p> 
 
 # Better Glow Squids [![RuffleSteels](https://img.shields.io/badge/Me-RuffleSteels-green)](https://github.com/RuffleSteels/Better-Glow-Squids/blob/master/README.md)
 > #### Adds more uses to the newly added 'Glow Squids'
