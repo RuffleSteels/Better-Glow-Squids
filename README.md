@@ -1,9 +1,9 @@
-# Fabric Example Mod
+<img src="https://i.imgur.com/k2lCbMR.png" align="right" width="100" height="100" />
 
-## Setup
+# Better Glow Squids [![RuffleSteels](https://img.shields.io/badge/Me-RuffleSteels-green)](https://github.com/RuffleSteels/Better-Glow-Squids/blob/master/README.md)
+> #### Adds more uses to the newly added 'Glow Squids'
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
-## License
+This mod adds better functions to the 'Glow Squids' such as glowing potions! When you splash a regular squid with a glowing potion, it turns into a glow squid!
+<br />
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
