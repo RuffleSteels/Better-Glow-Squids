@@ -16,14 +16,13 @@ This mod adds better functions to the 'Glow Squids' such as glowing potions! Whe
 ## Features
 
 
-* ####Revamps the old glowing potions
+* Revamps the old glowing potions
     * 'Spectral' and 'Advanced Spectral' arrows glow when shot
+    
 
-* ####Adds the rgb Glow Squid 'jeb_'
+* Adds the rgb Glow Squid 'jeb_'
 
-* ####Adds a new glowing potion which lights mobs up
+
+* Adds a new glowing potion which lights mobs up
     * Using [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) will make them actaully glow!
     * Can turn squids into glow squids!
-    
-hi
-------
