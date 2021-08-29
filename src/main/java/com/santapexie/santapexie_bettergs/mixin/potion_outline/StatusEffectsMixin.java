@@ -1,4 +1,4 @@
-package com.santapexie.santapexie_bettergs.mixin;
+package com.santapexie.santapexie_bettergs.mixin.potion_outline;
 
 import net.minecraft.entity.effect.StatusEffects;
 import org.spongepowered.asm.mixin.Mixin;

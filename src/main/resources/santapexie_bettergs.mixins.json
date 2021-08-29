@@ -5,9 +5,19 @@
   "compatibilityLevel": "JAVA_16",
   "mixins": [
     "BrewingRecipeRegistryAccessor",
-    "StatusEffectsMixin"
+    "potion_outline.StatusEffectsMixin",
+    "potion_outline.WorldRendererMixin",
+    "potion_outline.MinecraftClientMixin",
+    "potion_outline.ThrownEntityMixin",
+    "potion_outline.ArrowEntityMixin",
+    "jebbed_glow_squid.LivingEntityRendererMixin",
+    "jebbed_glow_squid.GlowSquidEntityRendererMixin",
+    "jebbed_glow_squid.LivingEntityMixin",
+    "luminance_effect.EntityRendererMixin",
+    "luminance_effect.LivingEntityMixin"
   ],
   "client": [
+
   ],
   "injectors": {
     "defaultRequire": 1

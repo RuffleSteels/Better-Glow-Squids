@@ -1,10 +1,21 @@
 {
-  "item.minecraft.tipped_arrow.effect.glowing": "Arrow of Glowing",
-  "item.minecraft.tipped_arrow.effect.long_glowing": "Arrow of Glowing",
-  "item.minecraft.potion.effect.glowing": "Potion of Glowing",
-  "item.minecraft.potion.effect.long_glowing": "Potion of Glowing",
-  "item.minecraft.splash_potion.effect.glowing": "Splash Potion of Glowing",
-  "item.minecraft.splash_potion.effect.long_glowing": "Splash Potion of Glowing",
-  "item.minecraft.lingering_potion.effect.glowing": "Lingering Potion of Glowing",
-  "item.minecraft.lingering_potion.effect.long_glowing": "Lingering Potion of Glowing"
+  "item.minecraft.tipped_arrow.effect.luminance_potion": "Arrow of Glowing",
+  "item.minecraft.tipped_arrow.effect.long_luminance_potion": "Arrow of Glowing",
+  "item.minecraft.potion.effect.luminance_potion": "Potion of Glowing",
+  "item.minecraft.potion.effect.long_luminance_potion": "Potion of Glowing",
+  "item.minecraft.splash_potion.effect.luminance_potion": "Splash Potion of Glowing",
+  "item.minecraft.splash_potion.effect.long_luminance_potion": "Splash Potion of Glowing",
+  "item.minecraft.lingering_potion.effect.luminance_potion": "Lingering Potion of Glowing",
+  "item.minecraft.lingering_potion.effect.long_luminance_potion": "Lingering Potion of Glowing",
+
+  "item.minecraft.tipped_arrow.effect.spectral_potion": "Advanced Spectral Arrow",
+  "item.minecraft.tipped_arrow.effect.long_spectral_potion": "Advanced Spectral Arrow",
+  "item.minecraft.potion.effect.spectral_potion": "Spectral Potion",
+  "item.minecraft.potion.effect.long_spectral_potion": "Spectral Potion",
+  "item.minecraft.splash_potion.effect.spectral_potion": "Splash Spectral Potion",
+  "item.minecraft.splash_potion.effect.long_spectral_potion": "Splash Spectral Potion",
+  "item.minecraft.lingering_potion.effect.spectral_potion": "Lingering Spectral Potion",
+  "item.minecraft.lingering_potion.effect.long_spectral_potion": "Lingering Spectral Potion",
+
+  "effect.santapexie_bettergs.luminance": "Glowing"
 }
