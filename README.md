@@ -1,6 +1,8 @@
 
 
-# Better Glow Squids [![RuffleSteels](https://img.shields.io/badge/Me-RuffleSteels-green)](https://github.com/RuffleSteels/Better-Glow-Squids/blob/master/README.md)
+Better Glow Squids [![RuffleSteels](https://img.shields.io/badge/Me-RuffleSteels-green)](https://github.com/RuffleSteels/Better-Glow-Squids/blob/master/README.md)
+======
+
 <img src="https://i.imgur.com/k2lCbMR.png" align="right" width="150" height="150" />
 
 > #### Adds more uses to the newly added 'Glow Squids'
@@ -12,6 +14,7 @@ This mod adds better functions to the 'Glow Squids' such as glowing potions! Whe
 
 
 ## Features
+
 
 * ####Revamps the old glowing potions
     * 'Spectral' and 'Advanced Spectral' arrows glow when shot
